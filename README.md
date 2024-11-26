@@ -13,13 +13,10 @@ Student-Management is a web-based project designed to efficiently manage student
 </div>
 
 
-
-
-
 ## Introduction Of Website
 <h4>1. Student Manament </h3>
 <p align="center">
-  If you would like to contribute or need further information, please contact me via email: <a href="mailto:tnbao1009@gmail.com">tnbao1009@gmail.com</a>
+  <img src="https://github.com/user-attachments/assets/e27fbd93-7bd7-40eb-9980-c31c0bce777f" width=900 ><br/>
 </p> <br>
 
 <h4>1. Course Manament </h3>
@@ -27,6 +24,14 @@ Student-Management is a web-based project designed to efficiently manage student
   <img src="https://github.com/user-attachments/assets/0eaf2ed0-ab4a-4ece-b9c0-c9af8679308f" width=900 ><br/>
 </p>
 
+## Contact Me 
+<p align="center">
+  If you would like to contribute or need further information, please contact me via email: <a href="mailto:tnbao1009@gmail.com">tnbao1009@gmail.com</a>
+</p>
+
+## License
+
+The .NET framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
 
