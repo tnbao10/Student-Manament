@@ -19,7 +19,7 @@ Student-Management is a web-based project designed to efficiently manage student
 ## Introduction Of Website
 <h4>1. Student Manament </h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4e7c6636-35f7-4dd6-afab-ee02a4442da6" width=900 ><br/>
+  If you would like to contribute or need further information, please contact me via email: <a href="mailto:tnbao1009@gmail.com">tnbao1009@gmail.com</a>
 </p> <br>
 
 <h4>1. Course Manament </h3>
