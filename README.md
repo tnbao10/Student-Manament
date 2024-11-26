@@ -3,14 +3,15 @@ Student-Management is a web-based project designed to efficiently manage student
 - Technologies Used: .NET, Laravel, HTML, CSS
 - Database: Microsoft SQL Server
   
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <a href="https://dotnet.microsoft.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" width="200">
   </a>
   <a href="https://angular.dev/press-kit" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="300">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="200">
   </a>
 </div>
+
 
 
 ## Introduction Of Website
