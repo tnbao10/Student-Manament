@@ -1,0 +1,680 @@
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\appsettings.json
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\WebAPI.staticwebassets.runtime.json
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\WebAPI.exe
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\WebAPI.deps.json
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\WebAPI.runtimeconfig.json
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\WebAPI.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\WebAPI.pdb
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Castle.Core.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Humanizer.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfoInputs.cache
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPI.props
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\scopedcss\bundle\WebAPI.styles.css
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2Date
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\WebAPI.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\WebAPI.pdb
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+D:\ASPDOTNET\BAITHIWEBAPI\WebApi\WebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\appsettings.json
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\WebAPI.staticwebassets.runtime.json
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\WebAPI.exe
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\WebAPI.deps.json
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\WebAPI.runtimeconfig.json
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\WebAPI.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\WebAPI.pdb
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Castle.Core.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfoInputs.cache
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPI.props
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\scopedcss\bundle\WebAPI.styles.css
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2Date
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\WebAPI.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\WebAPI.pdb
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\BAITHIWEBAPI\WebApi_Fake\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\appsettings.json
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.staticwebassets.runtime.json
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.exe
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.deps.json
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.runtimeconfig.json
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.pdb
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Castle.Core.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfoInputs.cache
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPI.props
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\scopedcss\bundle\WebAPI.styles.css
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2Date
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.pdb
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
+D:\Document_in_school\Aptech\Microsoft Azure\Final_Exam\Student_Management_WebAPI\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\appsettings.json
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\WebAPI.staticwebassets.runtime.json
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\WebAPI.exe
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\WebAPI.deps.json
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\WebAPI.runtimeconfig.json
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\WebAPI.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\WebAPI.pdb
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Castle.Core.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfoInputs.cache
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPI.props
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\scopedcss\bundle\WebAPI.styles.css
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2Date
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\WebAPI.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\WebAPI.pdb
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
+D:\Document_in_school\Aptech\Microsoft_Azure\Final_Exam\Student_Management_Server\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll

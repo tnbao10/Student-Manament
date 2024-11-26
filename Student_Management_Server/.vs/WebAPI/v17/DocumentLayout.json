@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\services\\accountsserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\accountsserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\services\\transactionserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\transactionserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\services\\transactionservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\transactionservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\models\\transactiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\transactiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\services\\accountsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\accountsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\dtos\\transactiondetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dtos\\transactiondetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\dtos\\accountsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dtos\\accountsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\helpers\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\helpers\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|c:\\users\\dell\\downloads\\baithiwebapi\\webapi_fake\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwCoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:03:12.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Dtos\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Dtos\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Dtos\\MappingProfile.cs",
+              "RelativeToolTip": "WebAPI\\Dtos\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:55:54.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Dtos\\TransactionDetailDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Dtos\\TransactionDetailDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Dtos\\TransactionDetailDto.cs",
+              "RelativeToolTip": "WebAPI\\Dtos\\TransactionDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:56:21.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:02:06.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Helpers\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "WebAPI\\Helpers\\FileHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:12:30.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountsService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Services\\AccountsService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\AccountsService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Services\\AccountsService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\AccountsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:46:40.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Models\\Account.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Account.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxAAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:53:50.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Models\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Models\\DatabaseContext.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DatabaseContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAjwC8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:53:23.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionDetail.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Models\\TransactionDetail.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\TransactionDetail.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Models\\TransactionDetail.cs",
+              "RelativeToolTip": "WebAPI\\Models\\TransactionDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:54:00.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountsServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Services\\AccountsServiceImpl.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\AccountsServiceImpl.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Services\\AccountsServiceImpl.cs",
+              "RelativeToolTip": "WebAPI\\Services\\AccountsServiceImpl.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwEYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:47:20.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionService .cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Services\\TransactionService .cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\TransactionService .cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Services\\TransactionService .cs",
+              "RelativeToolTip": "WebAPI\\Services\\TransactionService .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:04:08.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Services\\TransactionServiceImpl.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\TransactionServiceImpl.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Services\\TransactionServiceImpl.cs",
+              "RelativeToolTip": "WebAPI\\Services\\TransactionServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:04:35.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MailHelper.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Helpers\\MailHelper.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Helpers\\MailHelper.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Helpers\\MailHelper.cs",
+              "RelativeToolTip": "WebAPI\\Helpers\\MailHelper.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:23:20.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountsDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Dtos\\AccountsDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Dtos\\AccountsDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Dtos\\AccountsDto.cs",
+              "RelativeToolTip": "WebAPI\\Dtos\\AccountsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:50:04.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvyIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:03:05.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T07:03:08.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwBkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T10:34:52.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAITHIWEBAPI\\WebApi_Fake\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T07:11:01.489Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

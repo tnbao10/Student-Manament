@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "qpR9rT185EtwlB9YZ/p1QeAiUPUxPt4ig+3h4aMa/EU=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

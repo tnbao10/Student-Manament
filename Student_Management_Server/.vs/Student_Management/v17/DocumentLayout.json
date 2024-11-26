@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|d:\\document_in_school\\aptech\\microsoft_azure\\final_exam\\student_management_server\\webapi\\services\\courseserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\courseserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|d:\\document_in_school\\aptech\\microsoft_azure\\final_exam\\student_management_server\\webapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|d:\\document_in_school\\aptech\\microsoft_azure\\final_exam\\student_management_server\\webapi\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|d:\\document_in_school\\aptech\\microsoft_azure\\final_exam\\student_management_server\\webapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|d:\\document_in_school\\aptech\\microsoft_azure\\final_exam\\student_management_server\\webapi\\services\\studentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\studentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|d:\\document_in_school\\aptech\\microsoft_azure\\final_exam\\student_management_server\\webapi\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|d:\\document_in_school\\aptech\\microsoft_azure\\final_exam\\student_management_server\\webapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|d:\\document_in_school\\aptech\\microsoft_azure\\final_exam\\student_management_server\\webapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|d:\\document_in_school\\aptech\\microsoft_azure\\final_exam\\student_management_server\\webapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|d:\\document_in_school\\aptech\\microsoft_azure\\final_exam\\student_management_server\\webapi\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|d:\\document_in_school\\aptech\\microsoft_azure\\final_exam\\student_management_server\\webapi\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|d:\\document_in_school\\aptech\\microsoft_azure\\final_exam\\student_management_server\\webapi\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|d:\\document_in_school\\aptech\\microsoft_azure\\final_exam\\student_management_server\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|d:\\document_in_school\\aptech\\microsoft_azure\\final_exam\\student_management_server\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|d:\\document_in_school\\aptech\\microsoft_azure\\final_exam\\student_management_server\\webapi\\helpers\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\helpers\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|d:\\document_in_school\\aptech\\microsoft_azure\\final_exam\\student_management_server\\webapi\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A23CFE-71A6-4BAD-B106-D89452776A07}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 373,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Course.cs",
+              "ToolTip": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Models\\Course.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:23:50.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Student.cs",
+              "ToolTip": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Models\\Student.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:17:59.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAMwJQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:12:42.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseServiceImpl.cs",
+              "DocumentMoniker": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Services\\CourseServiceImpl.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\CourseServiceImpl.cs",
+              "ToolTip": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Services\\CourseServiceImpl.cs",
+              "RelativeToolTip": "WebAPI\\Services\\CourseServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:15:59.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Models\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DatabaseContext.cs",
+              "ToolTip": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Models\\DatabaseContext.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DatabaseContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:25:52.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\CourseService.cs",
+              "ToolTip": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Services\\CourseService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\CourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:15:39.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\StudentService.cs",
+              "ToolTip": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Services\\StudentService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:54:00.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Dtos\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Dtos\\MappingProfile.cs",
+              "ToolTip": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Dtos\\MappingProfile.cs",
+              "RelativeToolTip": "WebAPI\\Dtos\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:03:37.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Dtos\\StudentDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Dtos\\StudentDto.cs",
+              "ToolTip": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Dtos\\StudentDto.cs",
+              "RelativeToolTip": "WebAPI\\Dtos\\StudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:59:28.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:32:12.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T12:49:25.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Helpers\\FileHelper.cs",
+              "ToolTip": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "WebAPI\\Helpers\\FileHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:49:08.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MailHelper.cs",
+              "DocumentMoniker": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Helpers\\MailHelper.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Helpers\\MailHelper.cs",
+              "ToolTip": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Helpers\\MailHelper.cs",
+              "RelativeToolTip": "WebAPI\\Helpers\\MailHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:49:10.15Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 27,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:04:10.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Dtos\\CourseDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Dtos\\CourseDto.cs",
+              "ToolTip": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Dtos\\CourseDto.cs",
+              "RelativeToolTip": "WebAPI\\Dtos\\CourseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:02:10.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentServiceImpl.cs",
+              "DocumentMoniker": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Services\\StudentServiceImpl.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\StudentServiceImpl.cs",
+              "ToolTip": "D:\\Document_in_school\\Aptech\\Microsoft_Azure\\Final_Exam\\Student_Management_Server\\WebAPI\\Services\\StudentServiceImpl.cs",
+              "RelativeToolTip": "WebAPI\\Services\\StudentServiceImpl.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:54:01.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
