@@ -7,10 +7,11 @@ Student-Management is a web-based project designed to efficiently manage student
   </a>
 </p>
 <p align="center">
-  <a href="https://dotnet.microsoft.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/695px-AngularJS_logo.svg.png" width="200">
+  <a href="https://angular.dev/press-kit" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="200">
   </a>
 </p>
+
 
 ## Introduction Of Website
 <h4>1. Student Manament </h3>
