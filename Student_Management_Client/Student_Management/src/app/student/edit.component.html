@@ -1,0 +1,47 @@
+
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-12 col-xl-6">
+            <div class="bg-light rounded h-100 p-4">
+                <h6 class="mb-4">Edit Student</h6>
+
+                <form [formGroup]="formGroup" (ngSubmit)="save()">
+                    <div class="row mb-3" hidden>
+                        <label for="inputEmail3" class="col-sm-2 col-form-label">Name</label>
+                        <div class="col-sm-10" >
+                            <input type="email" class="form-control" id="inputEmail3"  formControlName="StuId">
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <label for="inputEmail3" class="col-sm-2 col-form-label">Name</label>
+                        <div class="col-sm-10">
+                            <input type="email" class="form-control" id="inputEmail3"  formControlName="StuName">
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <label for="inputPassword3" class="col-sm-2 col-form-label">Address</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="inputPassword3" formControlName="StuAddr">
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <label for="inputPassword3" class="col-sm-2 col-form-label">Phone</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="inputPassword3" formControlName="StuPhone">
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <label for="inputPassword3" class="col-sm-2 col-form-label">Dob</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="inputPassword3" formControlName="StuDob">
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary" style="margin-right: 10px;">Edit</button>
+                    <a [routerLink]="['/student-list']" class="btn btn-primary" href="">Back to List</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+      

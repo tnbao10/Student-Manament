@@ -1,0 +1,51 @@
+<!-- Recent Sales Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="bg-light text-center rounded p-4 shadow-lg">
+        <div class="d-flex align-items-center justify-content-between mb-4">
+            <h4 class="mb-0 text-uppercase font-weight-bold">Student Management System</h4>
+            <a href="" class="btn btn-outline-secondary btn-sm">Show All</a>
+        </div>
+
+        <fieldset class="mb-4 text-center mx-auto" style="max-width: 300px;">
+            <legend class="font-weight-bold">Search By Keyword</legend>
+            <div class="d-flex justify-content-center align-items-center">
+                <input type="text" [(ngModel)]="keyword" class="form-control form-control-sm w-75" placeholder="Enter keyword">
+                <button type="button" class="btn btn-sm btn-primary ml-3" (click)="search()">Search</button>
+            </div>
+        </fieldset>
+
+        <a [routerLink]="['/add-student']" class="btn btn-sm btn-success mb-4" style="background-color: green;" href="">Add Student</a>
+
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover table-striped mb-0">
+                <thead class="thead-dark">
+                    <tr>
+                        <th scope="col" hidden>Id</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Address</th>
+                        <th scope="col">Phone</th>
+                        <th scope="col">DOB</th>
+                        <th scope="col">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for(student of students; track students) {
+                        <tr>
+                            <td hidden>{{student.stuId}}</td>
+                            <td>{{student.stuName}}</td>
+                            <td>{{student.stuAddr}}</td>
+                            <td>{{student.stuPhone}}</td>
+                            <td>{{student.stuDob}}</td>
+                            <td>
+                                <a [routerLink]="['/course-list',{StuId:student.stuId}]" class="btn btn-sm btn-success mr-2" href="">Detail</a>
+                                <a [routerLink]="['/edit-student',{StuId:student.stuId}]" class="btn btn-sm btn-primary mr-2" href="">Edit</a>
+                                <button (click)="delete(student.stuId)" type="button" class="btn btn-sm btn-danger mr-2">Delete</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<!-- Recent Sales End -->

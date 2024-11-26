@@ -1,0 +1,55 @@
+<!-- Recent Sales Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="bg-light text-center rounded p-4">
+        <div class="d-flex align-items-center justify-content-between mb-4">
+            <h6 class="mb-0">COURSE LIST</h6>
+            <a href="">Show All</a>
+        </div>
+
+        <fieldset>
+            <legend>Search By Keyword</legend>
+            Keyword <input type="text" [(ngModel)]="keyword" >
+            <button type="button" class="btn btn-sm btn-primary" style="margin: 10px;" (click)="search1()">Search</button>
+        </fieldset>
+
+        <fieldset>
+            <legend>Search By Score</legend>
+            Score <input type="text" [(ngModel)]="score" >
+            <button type="button" class="btn btn-sm btn-primary" style="margin: 10px;" (click)="searchByScore()">Search</button>
+        </fieldset>
+
+        <a [routerLink]="['/add-course',{StuId:studentId}]" class="btn btn-sm btn-primary" style="margin: 10px; background-color: green;" href="">ADD NEW COURSE</a>
+
+        <div class="table-responsive">
+            <table class="table text-start align-middle table-bordered table-hover mb-0">
+                <div>
+                    <strong>Total Average Score:</strong> {{ averageScore | number:'1.0-2' }} - {{ classification }}
+                </div>
+                <thead>
+                    <tr class="text-dark">
+                        <th scope="col" hidden>Id</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Score</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for(course of courses; track courses){
+                        <tr>
+                            <td hidden>{{course.courId }}</td>
+                            <td>{{course.courName}}</td>
+                            <td>{{course.courScore}}</td>
+
+                            <td>
+                                <a [routerLink]="['/edit-course',{CourId:course.courId, StuId:studentId}]" class="btn btn-sm btn-primary" style="margin-right: 10px; background-color: blue;" href="">Edit</a>
+                                <button (click)="delete(course.courId)"  type="submit" class="btn btn-primary"  style="margin-right: 10px; background-color: red;">Delete</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+                <button [routerLink]="['/student-list']"  type="submit" class="btn btn-primary"  style="margin: 10px; background-color: green;">Back to Student List</button>
+
+            </table>
+        </div>
+    </div>
+</div>
+<!-- Recent Sales End -->
